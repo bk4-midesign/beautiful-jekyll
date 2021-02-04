@@ -5,14 +5,15 @@
 
 # --- Required options --- #
 #url: "https://bk4-midesign.github.io"
-baseurl: "/cayman/"
+#baseurl: "/cayman/"
 #baseurl: "/beautiful-jekyll"
 
 # Name of website
-title: BK4 - Multi Intelligent Space Regeneration Team
+title: BK4
+#BK4 - Multi Intelligent Space Regeneration Team
 
 # Your name to show in the footer
-author: Prof. Kyung Hoon Hyun
+author: Hoon
 
 # --- List of links in the navigation bar --- #
 
