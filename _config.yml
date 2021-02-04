@@ -5,6 +5,7 @@
 
 # --- Required options --- #
 url: "https://bk4-midesign.github.io"
+baseurl: ""
 #baseurl: "/beautiful-jekyll"
 
 # Name of website
