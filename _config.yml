@@ -4,6 +4,8 @@
 # the initial set up you won't need to come back to this file often.
 
 # --- Required options --- #
+url: "https://bk4-midesign.github.io"
+#baseurl: "/beautiful-jekyll"
 
 # Name of website
 title: BK4 - Multi Intelligent Space Regeneration Team
@@ -186,7 +188,7 @@ date_format: "%B %-d, %Y"
 # --- You don't need to touch anything below here (but you can if you want) --- #
 
 # Output options (more information on Jekyll's site)
-timezone: "America/Toronto"
+timezone: "Asia/Seoul"
 markdown: kramdown
 highlighter: rouge
 permalink: /:year-:month-:day-:title/
@@ -225,6 +227,76 @@ exclude:
 plugins:
   - jekyll-paginate
   - jekyll-sitemap
+
+
+# prose.io config
+prose:
+  rooturl: '_posts'
+  media: 'img'
+  ignore:
+    - 404.html
+    - LICENSE
+    - feed.xml
+    - _config.yml
+    - /_layouts
+    - /_includes
+    - /css
+    - /img
+    - /js
+  metadata:
+    _posts:
+      - name: "layout"
+        field:
+          element: "hidden"
+          value: "post"
+      - name: "title"
+        field:
+          element: "text"
+          label: "Post title"
+          placeholder: "Title"
+          alterable: true
+      - name: "subtitle"
+        field:
+          element: "textarea"
+          label: "Subtitle"
+          placeholder: "A description of your post."
+          alterable: true
+      - name: "date"
+        field:
+          element: "text"
+          label: "Date"
+          help: "Enter date of post."
+          placeholder: "yyyy-mm-dd"
+          alterable: true
+      - name: "bigimg"
+        field:
+          element: "text"
+          label: "bigimg"
+          help: "Add a bigimg like this : /img/bigimg01.jpg"
+          placeholder: "/img/bigimg01.jpg"
+          alterable: true
+      - name: "image"
+        field:
+          element: "text"
+          label: "Image"
+          help: "Add a thumbnail image's URL"
+          placeholder: "http://...png"
+          alterable: true
+      - name: "tags"
+        field:
+          element: "text"
+          label: "Tags"
+          help: "Add a tags like this : project software mechanics life"
+          placeholder: "project software mechanics life"
+          alterable: true
+      - name: "published"
+        field:
+          element: "checkbox"
+          label: "Publish"
+          help: "Check to publish post, uncheck to hide."
+
+gems:
+  - jekyll-paginate
 
 # Beautiful Jekyll / Dean Attali
 # 2fc73a3a967e97599c9763d05e564189
