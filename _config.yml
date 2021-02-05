@@ -28,7 +28,8 @@ navbar-links:
     - 논문: "aboutme"
     - 전시: "aboutme"
     - 수상: "aboutme"
-
+  한양대학교: "aboutme"
+  
 # --- Logo --- #
 
 # Image to show in the navigation bar - works best with a square image
