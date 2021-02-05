@@ -17,10 +17,10 @@ author: 현경훈
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  About: 
-    - Introduction: "aboutme"
-    - Faculty & Staff: "aboutme"
-    - Students: "aboutme"
+  사업팀 소개: 
+    - 목표: "aboutme"
+    - 참여교수: "aboutme"
+    - 참여학생: "aboutme"
   Resources:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
