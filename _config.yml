@@ -17,7 +17,7 @@ author: 현경훈
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  사업팀 소개: 
+  사업팀소개: 
     - 목표: "aboutme"
     - 참여교수: "aboutme"
     - 참여학생: "aboutme"
@@ -28,7 +28,6 @@ navbar-links:
     - 논문: "aboutme"
     - 전시: "aboutme"
     - 수상: "aboutme"
-  한양대: "http://www.kyunghoonhyun.com"  
 # --- Logo --- #
 
 # Image to show in the navigation bar - works best with a square image
