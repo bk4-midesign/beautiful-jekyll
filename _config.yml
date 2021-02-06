@@ -17,8 +17,9 @@ author: 현경훈
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  사업팀 소개:
+  교육연구팀 소개:
     - 목표: "aboutme"
+    - 운영규정: "regulation"
     - 참여교수: "faculty"
     - 참여학생: "students"
   교육과정:
