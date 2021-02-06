@@ -27,7 +27,8 @@ navbar-links:
   연구실적:
     - 논문: "research-paper"
     - 전시: "research-exhibition"
-    - 수상: "research-awards"
+    - 수상: "research-award"
+    - 워크샵: "research-workshop"
   한양대학교: "aboutme"
   
 # --- Logo --- #
