@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 사업팀 소개
+title: 교육연구팀 소개
 subtitle: Multi-Intelligent (MI) 공간재생디자인 인재양성팀
 ---
 
