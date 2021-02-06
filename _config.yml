@@ -29,6 +29,7 @@ navbar-links:
     - 논문: "research-paper"
     - 전시: "research-exhibition"
     - 수상: "research-award"
+    - 특허: "research-patent"
     - 워크샵: "research-workshop"
   한양대학교: "aboutme"
   
