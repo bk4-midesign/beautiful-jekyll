@@ -19,15 +19,15 @@ author: 현경훈
 navbar-links:
   사업팀 소개:
     - 목표: "aboutme"
-    - 참여교수: "aboutme"
-    - 참여학생: "aboutme"
+    - 참여교수: "faculty"
+    - 참여학생: "students"
   교육과정:
-    - 석사과정: "aboutme"
-    - 박사과정: "aboutme"
+    - 석사과정: "master"
+    - 박사과정: "phd"
   연구실적:
-    - 논문: "aboutme"
-    - 전시: "aboutme"
-    - 수상: "aboutme"
+    - 논문: "research-paper"
+    - 전시: "research-exhibition"
+    - 수상: "research-awards"
   한양대학교: "aboutme"
   
 # --- Logo --- #
