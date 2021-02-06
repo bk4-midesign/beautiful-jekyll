@@ -1,16 +1,12 @@
 ---
 layout: page
-title: About me
-subtitle: Why you'd want to go on a date with me
+title: 사업팀 소개
+subtitle: Multi-Intelligent (MI) 공간재생디자인 인재양성팀
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+### 목표
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+4차 산업혁명 시대를 맞이한 건축산업의 변화에 따라 최근 도시 재생, 재생 건축, 친환경디자인 등 재생 산업에 대한 수요가 급증하여 논리적이면서 객관성을 갖춰 기존의 환경을 여러 방면에서 고려할 수 있는 **Multi Intelligent (MI) 공간재생디자인 인재**의 필요성이 대두되고 있습니다. 이에 따라 주관적이고 정성적 측면이 강조되어온 디자인 교육에서 정량적이고 객관적인 데이터를 기반으로 디자인 의사결정을 내릴 수 있는 디자인 교육과정이 요구됩니다. 
 
-What else do you need?
+본 교육연구팀은 디자인과 정보기술(Big Data, AI, VR/AR, IoT) 간의 융합 교육을 통하여 새로운 공간재생 분야를 개척하고 실무를 선도할 수 있는「MI 공간재생디자인 인재양성」을 비전으로 합니다. 교육 및 연구 트랙을 ‘데이터 분석과 디자인’, ‘인터랙티브 공간디자인’, ‘공간 컨텐츠 융합디자인’ 분야로 구분하여 기술, 비즈니스, 인문 사회의 융합 분야에서 새로운 공간재생디자인 패러다임을 창조할 수 있는 고급 인재를 양성하고자 합니다.
 
-### My story
-
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
