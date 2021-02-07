@@ -5,8 +5,6 @@ subtitle:
 tags: [hanyanguniversity, bk4, interiordesignarchitecture]
 comments: true
 ---
-#gh-repo: daattali/beautiful-jekyll
-#gh-badge: [star, fork, follow]
 
 한양대학교 실내건축디자인학과 BK4 선정!
 
