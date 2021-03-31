@@ -13,6 +13,13 @@ subtitle:
 
 <br>
 
+| 연번 | 이름 | 제목 | 학술지명 | 비고 |
+| :------ |:--- | :--- | :--- | :--- |
+| 1 | JaeHoon Ma, Seung Hyun Cha | A user-specific activity pattern generation framework for evidence-based ABW planning | Building and Environment| SCIE |
+| 2 | TaeHee Jo, JaeHoon Ma, Seung Hyun Cha| Elderly Perception on the Internet of things-based Integrated Smart-Home System | Sensors | SCIE |
+
+<br>
+
 ### 2020년
 
 | 연번 | 이름 | 제목 | 학술지명 | 비고(SCI/SCOPUS/기타) |
