@@ -5,6 +5,9 @@ subtitle:
 ---
 
 ### 교육연구 팀장
+
+![황연숙 교수님](https://user-images.githubusercontent.com/81661353/113100157-fc5ff080-9235-11eb-94f4-a84ad80bca12.jpg){: width="100" height="100"}
+
 **황연숙** 교수
 <br>
 전공 및 연구분야 - 실내계획, 실내디자인<br>
