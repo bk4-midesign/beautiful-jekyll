@@ -15,7 +15,7 @@ subtitle:
 <br>
 
 # 교육연구 참여교수
-![남경숙 교수님 350_450](https://user-images.githubusercontent.com/81661353/113103047-c3297f80-9239-11eb-8701-9de0c749f819.jpg)
+![남경숙 교수님 흑백](https://user-images.githubusercontent.com/81661353/113104280-4f887200-923b-11eb-98dc-3ce7a61f9da0.jpg)
 
 ### 남경숙 교수
 <br>
@@ -26,7 +26,7 @@ subtitle:
 <br>
 
 
-![장순각 교수님 350_450](https://user-images.githubusercontent.com/81661353/113103084-cd4b7e00-9239-11eb-815e-4dea2719c938.jpg)
+![장순각 교수님 흑백](https://user-images.githubusercontent.com/81661353/113104312-58794380-923b-11eb-9275-d53bb57fa1a8.jpg)
 
 ### 장순각 교수
 <br>
@@ -56,7 +56,7 @@ subtitle:
 <br>
 
 
-![민아람 교수님 350_450](https://user-images.githubusercontent.com/81661353/113103155-de948a80-9239-11eb-87df-6560fb2e1162.jpg)
+![민아람 교수님 흑백](https://user-images.githubusercontent.com/81661353/113104333-5dd68e00-923b-11eb-915a-932328ceac67.jpg)
 
 ### 민아람 교수
 <br>
