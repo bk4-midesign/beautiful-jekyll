@@ -3,7 +3,6 @@ layout: page
 title: 논문 실적
 subtitle:
 ---
-<br>
 
 ### 2021년
 | 연번 | 이름 | 제목 | 학술지명 | 비고(SCI/SCOPUS/기타) |
@@ -11,7 +10,9 @@ subtitle:
 | 1 | JaeHoon Ma, Seung Hyun Cha | A user-specific activity pattern generation framework for evidence-based ABW planning | Building and Environment| SCIE |
 | 2 | TaeHee Jo, JaeHoon Ma, Seung Hyun Cha| Elderly Perception on the Internet of things-based Integrated Smart-Home System | Sensors | SCIE |
 
+
 <br>
+
 
 ### 2020년
 | 연번 | 이름 | 제목 | 학술지명 | 비고(SCI/SCOPUS/기타) |
@@ -29,6 +30,7 @@ subtitle:
 | 11 | 유단경, 이자영 | 직장보육시설의 보육공간 특성에 관한 분석 | 한국공간디자인학회 논문집 | KCI |
 | 12 | 윤수민 | 오피스빌딩 로비공간에 나타난 바이오필릭 디자인 특성 | 한국실내디자인학회 논문집 | KCI |
 | 13 | 임미 | 대형 복합 상업시설 패션구역의 동선체계 연구 | 한국실내디자인학회 논문집 | KCI |
+
 
 <br>
 
