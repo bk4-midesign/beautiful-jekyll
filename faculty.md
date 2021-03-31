@@ -36,6 +36,7 @@ subtitle:
 
 <br>
 
+![현경훈 교수님 350_450](https://user-images.githubusercontent.com/81661353/113103944-df79ec00-923a-11eb-91c3-f581ba29b3b7.jpg)
 
 ### 현경훈 교수
 <br>
