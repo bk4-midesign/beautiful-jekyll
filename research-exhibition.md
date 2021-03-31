@@ -5,6 +5,7 @@ subtitle:
 ---
 
 ### 2021년
+
 | 연번 | 이름 | 작품명 | 전시명 | 주관기관 |
 | :------ |:--- | :--- | :--- | :--- |
 | - | - | - | - | - |
@@ -12,6 +13,7 @@ subtitle:
 <br>
 
 ### 2020년
+
 | 연번 | 이름 | 작품명 | 전시명 | 주관기관 |
 | :------ |:--- | :--- | :--- | :--- |
 | 1 | 김가연 | RE NEW ALL COMPLEX CILTURAL CENTER / 2020 International Invitation Exhibition | Korean Institute of Interior Design |
