@@ -25,7 +25,7 @@ subtitle:
 
 **차승현** 교수<br>
 전공 및 연구분야 – Future Cities, IoT/VR/AR, Digital Twin, Smart Design<br>
-담당과목 – FM리서치 프로젝트, IoT기반공간디자인<br>
+담당과목 – FM리서치 프로젝트, 건축모델링1, IoT기반공간디자인, 저탄소빌딩디자인<br>
 
 **민아람** 교수<br>
 전공 및 연구분야 – 공간정량화 및 분석, 근거기반공간디자인, 지리정보시스템<br>
