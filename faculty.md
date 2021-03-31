@@ -4,7 +4,7 @@ title: 참여교수
 subtitle:
 ---
 
-# 교육연구 팀장
+# 교육연구팀장
 ![황연숙 교수님 350_450](https://user-images.githubusercontent.com/81661353/113103012-b73dbd80-9239-11eb-8d7d-797a52a84613.jpg)
 
 ### 황연숙 교수
