@@ -8,7 +8,7 @@ subtitle:
 이름 / 작품명 / 전시명 / 주관기관
 
 ### 2020년
-이름 / 작품명 / 전시명 / 주관기관
+이름 / 작품명 / 전시명 / 주관기관<br>
 김가연 / RE NEW ALL COMPLEX CILTURAL CENTER / 2020 International Invitation Exhibition / Korean Institute of Interior Design<br>
 김경은, 차승현 / Seasonal Atrium / 2020 International Invitation Exhibition / Korean Institute of Interior Design<br>
 김동하 / Let's Slow Down : from fast consumption to slow "Change" / 2020 International Invitation Exhibition / Korean Institute of Interior Design<br>
