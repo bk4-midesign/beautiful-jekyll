@@ -20,8 +20,10 @@ subtitle:
 ### 남경숙 교수
 <br>
 전공 및 연구분야 - 실내건축설계, 실내건축이론<br>
-담당과목 - 공간디자인스튜디오, UX디자인, 감성디자인, 현대실내건축특론<br><br>
+담당과목 - 공간디자인스튜디오, UX디자인, 감성디자인, 현대실내건축특론<br>
 
+
+<br>
 
 ![장순각 교수님 흑백](https://user-images.githubusercontent.com/81661353/113104312-58794380-923b-11eb-9275-d53bb57fa1a8.jpg)
 
@@ -52,7 +54,6 @@ subtitle:
 
 
 <br>
-
 
 ![민아람 교수님 흑백](https://user-images.githubusercontent.com/81661353/113104333-5dd68e00-923b-11eb-915a-932328ceac67.jpg)
 
