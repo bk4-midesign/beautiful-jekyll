@@ -1,3 +1,9 @@
+---
+layout: page
+title: (BK FOUR) 한양대 Multi Intelligent (MI) 공간재생디자인 인재양성팀
+subtitle:
+---
+
 ### (BK FOUR) 한양대 Multi Intelligent (MI) 공간재생디자인 인재양성팀 사업신청서
 <a href="http://book.hanyang.ac.kr/Viewer/A6M17GLBJ0C5" target="_blank"> 사업신청서 Full Ver. </a>
 
