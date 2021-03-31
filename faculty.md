@@ -20,8 +20,8 @@ subtitle:
 담당과목 –<br> 
 
 **현경훈** 교수<br>
-전공 및 연구분야 – Computational Design / 1) Design Quantification & Automation; 2) Intelligent Design System; 3) Interaction Technique & Devices<br>
-담당과목 – 공간드로잉과시각화, 디자인컴퓨팅, 가구디자인과디지털패브리케이션, 디자인컴퓨팅 연구<br> 
+전공 및 연구분야 – Computational Design, Design Quantification & Automation, Intelligent Design System, Interaction Technique & Devices<br>
+담당과목 – 디자인컴퓨팅 연구, 디자인 컴퓨팅, 가구디자인과 디지털패브리케이션, 공간드로잉과 시각화<br> 
 
 **차승현** 교수<br>
 전공 및 연구분야 – Future Cities, IoT/VR/AR, Digital Twin, Smart Design<br>
