@@ -28,9 +28,8 @@ subtitle:
 정수림 / 2021.03.01 ~ 2021.08.31<br>
 조태희 / 2021.03.01 ~ 2021.08.31<br>
 
-| Number | Next number | Previous number |
-| :------ |:--- | :--- |
-| Five | Six | Four |
+| 연번 | 이름 | 참여기간 |
+| 1 | 김혜자 | 2021.03.01 ~ 2021.08.31 |
 | Ten | Eleven | Nine |
 | Seven | Eight | Six |
 | Two | Three | One |
