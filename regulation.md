@@ -3,9 +3,8 @@ layout: page
 title: 운영규정
 subtitle:
 ---
-### (BK FOUR) 한양대 Multi Intelligent (MI) 공간재생디자인 인재양성팀 운영 규정 Full Ver. 
-http://book.hanyang.ac.kr/Viewer/SEDFVSK2W08E
 
+<a href="http://book.hanyang.ac.kr/Viewer/SEDFVSK2W08E">### (BK FOUR) 한양대 Multi Intelligent (MI) 공간재생디자인 인재양성팀 운영 규정 Full Ver. </a>
 
 ### 지원대학원생 선발 기준
 
