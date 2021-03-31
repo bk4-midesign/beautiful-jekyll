@@ -23,13 +23,17 @@ subtitle:
 | 장순각 | four | four |
 
 **현경훈** 교수<br>
-전공 및 연구분야 – Computational Design, Design Quantification & Automation, Intelligent Design System, Interaction Technique & Devices<br>
-담당과목 – 디자인컴퓨팅 연구, 디자인 컴퓨팅, 가구디자인과 디지털패브리케이션, 공간드로잉과 시각화<br> 
+| 교수 | 전공 및 연구분야 | 담당과목 |
+| :------ |:--- | :--- |
+| 현경훈 | Computational Design, Design Quantification & Automation, Intelligent Design System, Interaction Technique & Devices | 디자인컴퓨팅 연구, 디자인 컴퓨팅, 가구디자인과 디지털패브리케이션, 공간드로잉과 시각화 |
 
 **차승현** 교수<br>
-전공 및 연구분야 – Future Cities, IoT/VR/AR, Digital Twin, Smart Design<br>
-담당과목 – FM리서치 프로젝트, 건축모델링1, IoT기반공간디자인, 저탄소빌딩디자인<br>
+| 교수 | 전공 및 연구분야 | 담당과목 |
+| :------ |:--- | :--- |
+| 차승현 | Future Cities, IoT/VR/AR, Digital Twin, Smart Desig | FM리서치 프로젝트, 건축모델링1, IoT기반공간디자인, 저탄소빌딩디자인 |
 
 **민아람** 교수<br>
-전공 및 연구분야 – 공간정량화 및 분석, 근거기반공간디자인, 지리정보시스템<br>
-담당과목 – VR/AR디자, 2D CAD, 연구윤리및연구방법론1<br>
+| 교수 | 전공 및 연구분야 | 담당과목 |
+| :------ |:--- | :--- |
+| 민아람 | 공간정량화 및 분석, 근거기반공간디자인, 지리정보시스템 | VR/AR디자인, 2D CAD, 연구윤리및연구방법론1 |
+
