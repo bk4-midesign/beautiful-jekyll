@@ -14,6 +14,8 @@ subtitle:
 
 <br>
 
+박사과정
+
 | Number | Next number | Previous number |
 | :------ |:--- | :--- |
 | Five | Six | Four |
