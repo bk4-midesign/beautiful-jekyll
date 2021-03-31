@@ -13,12 +13,14 @@ subtitle:
 
 ### 교육연구 참여교수
 **남경숙** 교수<br>
-전공 및 연구분야 – 실내건축설계, 실내건축이론<br>
-담당과목 – 공간디자인스튜디오, UX디자인, 감성디자인, 현대실내건축특론<br>
+| 교수 | 전공 및 연구분야 | 담당과목 |
+| :------ |:--- | :--- |
+| 남경숙 | 실내건축설계, 실내건축이론 | 공간디자인스튜디오, UX디자인, 감성디자인, 현대실내건축특론 |
 
 **장순각** 교수<br>
-전공 및 연구분야 –<br> 
-담당과목 –<br> 
+| 교수 | 전공 및 연구분야 | 담당과목 |
+| :------ |:--- | :--- |
+| 장순각 | four | four |
 
 **현경훈** 교수<br>
 전공 및 연구분야 – Computational Design, Design Quantification & Automation, Intelligent Design System, Interaction Technique & Devices<br>
