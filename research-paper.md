@@ -6,11 +6,21 @@ subtitle:
 
 ### 2021년
 
+외국논문
+
 | 연번 | 이름 | 제목 | 학술지명 | 비고(SCI/SCOPUS/기타) |
 | :------ |:--- | :--- | :--- | :--- |
 | 1 | JaeHoon Ma, Seung Hyun Cha | A user-specific activity pattern generation framework for evidence-based ABW planning | Building and Environment| SCIE |
 | 2 | TaeHee Jo, JaeHoon Ma, Seung Hyun Cha| Elderly Perception on the Internet of things-based Integrated Smart-Home System | Sensors | SCIE |
 
+<br>
+
+국내논문
+
+| 연번 | 이름 | 제목 | 학술지명 | 비고(KCI/기타) |
+| :------ |:--- | :--- | :--- | :--- |
+| 1 |  |  |  |  |
+ 
 <br>
 
 ### 2020년
@@ -26,7 +36,7 @@ subtitle:
 
 국내논문
 
-| 연번 | 이름 | 제목 | 학술지명 | 비고(SCI/SCOPUS/기타) |
+| 연번 | 이름 | 제목 | 학술지명 | 비고(KCI/기타) |
 | :------ |:--- | :--- | :--- | :--- |
 | 1 | 마재훈, 차승현 | NWW 오피스 계획을 위한 BLE 비컨 기반 공간사용정보 추정 | 한국CDE학회 논문집 | KCI |
 | 2 | 김선희, 남경숙 | 한국 현대 건축 표피에 나타나는 디지털미디어의 발전 현황 연구 | 한국실내디자인학회 논문집 | KCI |
