@@ -11,7 +11,11 @@ subtitle:
 | 연번 | 이름 | 제목 | 학술지명 | 비고(SCI/SCOPUS/기타) |
 | :------ |:--- | :--- | :--- | :--- |
 | 1 | JaeHoon Ma, Seung Hyun Cha | A user-specific activity pattern generation framework for evidence-based ABW planning | Building and Environment| SCIE |
-| 2 | TaeHee Jo, JaeHoon Ma, Seung Hyun Cha| Elderly Perception on the Internet of things-based Integrated Smart-Home System | Sensors | SCIE |
+| 2 | TaeHee Jo, JaeHoon Ma, Seung Hyun Cha | Elderly Perception on the Internet of things-based Integrated Smart-Home System | Sensors | SCIE |
+| 3 | Abdo Abdullah Ahmed Gassar, Seung Hyun Cha | Review of geographic information systems-based rooftop solar photovoltaic potential estimation approaches at urban scales | Applied Energy | SCIE |
+| 4 | Junyoung Jang, Seungjun Ahn, Seung Hyun Cha, Kyeongwoon Cho, Choongwan Koo, Tae Wan Kim | Towards Productivity in Future Construction: Mapping Knowledge and Finding Insights for Achieving Successful Offsite Construction Projects | Journal of Computational Design and Engineering | SCIE |
+| 5 | Hoyoung Maeng, Kyung Hoon Hyun | Data-Driven Analysis of Spatial Patterns Through Large-Scale Datasets of Building Floor Plan | 26th International Conference of the Association for Computer-Aided Architectural Design Research in Asia (CAADRIA 2021) | 국제학회 |
+| 6 | Kihoon Son, Kyung Hoon Hyun | A Framework for Multivariate Data Based Floor Plan Retrieval and Generation | 26th International Conference of the Association for Computer-Aided Architectural Design Research in Asia (CAADRIA 2021) | 국제학회 |
 
 <br>
 
@@ -31,6 +35,8 @@ subtitle:
 | :------ |:--- | :--- | :--- | :--- |
 | 1 | Hoyoung Maeng, Kyung Hoon Hyun | Multi-Objective Pareto Optimization of Tensile Membrane Architecture for Energy Harvesting | Applied Sciences | SCIE |
 | 2 | JaeHoon Ma, Seung Hyun Cha | A human data-driven interaction estimation using IoT sensors for workplace design | Automation in Construction | SCIE |
+| 3 | Seung Hyun Cha, Shaojie Zhang M.S, Tae Wan Kim | Effects of Interior Color Schemes on Emotion, Task Performance, and Heart Rate in Immersive Virtual Environments | Journal of Interior Design | A&HCI |
+| 4 | SAbdo Abdullah Ahmed Gassar, Seung Hyun Cha | Energy prediction techniques for large-scale buildings towards a sustainable built environment: A review | Energy and Buildings | SCIE |
 
 <br>
 
