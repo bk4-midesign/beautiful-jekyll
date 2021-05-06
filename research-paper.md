@@ -16,8 +16,7 @@ subtitle:
 | 4 | Junyoung Jang, Seungjun Ahn, Seung Hyun Cha, Kyeongwoon Cho, Choongwan Koo, Tae Wan Kim | Towards Productivity in Future Construction: Mapping Knowledge and Finding Insights for Achieving Successful Offsite Construction Projects | Journal of Computational Design and Engineering | SCIE |
 | 5 | Hoyoung Maeng, Kyung Hoon Hyun | Data-Driven Analysis of Spatial Patterns Through Large-Scale Datasets of Building Floor Plan | 26th International Conference of the Association for Computer-Aided Architectural Design Research in Asia (CAADRIA 2021) | 국제학회 |
 | 6 | Kihoon Son, Kyung Hoon Hyun | A Framework for Multivariate Data Based Floor Plan Retrieval and Generation | 26th International Conference of the Association for Computer-Aided Architectural Design Research in Asia (CAADRIA 2021) | 국제학회 |
-| 7 | Hoyoung Maeng, Kyung Hoon Hyun | Data-Driven Analysis of Spatial Patterns through Large-Scale Datasets of Building Floor Plan | Proceedings of the 26th International Conference of the Association for Computer-Aided | 기타 |
-| 8 | Kihoon Son, Kyung Hoon Hyun | A Framework for Multivariate Data based Floor Plan Retrieval and Generation |Proceedings of the 26th International Conference of the Association for Computer-Aided | 기타 |
+
 
 <br>
 
