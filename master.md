@@ -58,8 +58,6 @@ subtitle:
 | COE8026 | 석사논문연구 | 연구필수 | 2 | 2 | 0 |
 
 ※ 개설강좌는 해당학기 요건에 따라 달라질 수 있음.
-
-<br>
 [※ 한양대학교 대학원 홈페이지(수강신청)참고](http://www.sgs.hanyang.ac.kr/academics/apply.php)
 
 <br>
