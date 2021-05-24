@@ -18,7 +18,7 @@ subtitle:
 
 | 연번 | 이름 | 작품명 | 전시명 | 주관기관 |
 | :------ |:--- | :--- | :--- | :--- |
-| 예시 | 예시 | 예시 | 예시 | 예시 |
+| 1 | 송수진, 송인주, 정수림, 장순각 | WAS - recycling project for environmental problems in the Post Covid 19 era | 2021 Seoul Living Design Festival | Design House |
 
 <br>
 
