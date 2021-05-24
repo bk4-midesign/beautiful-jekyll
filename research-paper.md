@@ -14,8 +14,9 @@ subtitle:
 | 2 | TaeHee Jo, JaeHoon Ma, Seung Hyun Cha | Elderly Perception on the Internet of things-based Integrated Smart-Home System | Sensors | SCIE |
 | 3 | Abdo Abdullah Ahmed Gassar, Seung Hyun Cha | Review of geographic information systems-based rooftop solar photovoltaic potential estimation approaches at urban scales | Applied Energy | SCIE |
 | 4 | Junyoung Jang, Seungjun Ahn, Seung Hyun Cha, Kyeongwoon Cho, Choongwan Koo, Tae Wan Kim | Towards Productivity in Future Construction: Mapping Knowledge and Finding Insights for Achieving Successful Offsite Construction Projects | Journal of Computational Design and Engineering | SCIE |
-| 5 | Hoyoung Maeng, Kyung Hoon Hyun | Data-Driven Analysis of Spatial Patterns Through Large-Scale Datasets of Building Floor Plan | 26th International Conference of the Association for Computer-Aided Architectural Design Research in Asia (CAADRIA 2021) | 국제학회 |
-| 6 | Kihoon Son, Kyung Hoon Hyun | A Framework for Multivariate Data Based Floor Plan Retrieval and Generation | 26th International Conference of the Association for Computer-Aided Architectural Design Research in Asia (CAADRIA 2021) | 국제학회 |
+| 5 | Seonghoon Ban, Kyung Hoon Hyun | Real-Time Physical Prototyping Tool Design Based on Shape-Changing Display | Applied Sciences | SCIE |
+| 6 | Hoyoung Maeng, Kyung Hoon Hyun | Data-Driven Analysis of Spatial Patterns Through Large-Scale Datasets of Building Floor Plan | 26th International Conference of the Association for Computer-Aided Architectural Design Research in Asia (CAADRIA 2021) | 국제학회 |
+| 7 | Kihoon Son, Kyung Hoon Hyun | A Framework for Multivariate Data Based Floor Plan Retrieval and Generation | 26th International Conference of the Association for Computer-Aided Architectural Design Research in Asia (CAADRIA 2021) | 국제학회 |
 
 
 <br>
@@ -24,7 +25,10 @@ subtitle:
 
 | 연번 | 이름 | 제목 | 학술지명 | 비고(KCI/기타) |
 | :------ |:--- | :--- | :--- | :--- |
-| 1 |  |  |  |  |
+| 1 | 문승현, 황연숙 | 도시재생을 통한 복합문화공간의 유니버설디자인 적용성 평가 | 한국실내디자인학회 학술대회논문집 | KCI |
+| 2 | 김경은, 박예은, 황연숙 | 유니버설디자인 관점에서의 노인보호구역 보행환경 평가 | 한국실내디자인학회 학술대회논문집 | KCI |
+| 3 | 윤수민, 황연숙 | 고령자 시지각특성을 고려한 지하철역 사인시스템의 유니버설디자인 평가 | 한국실내디자인학회 학술대회논문집 | KCI | 
+ 
  
 <br>
 
