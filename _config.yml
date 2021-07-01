@@ -31,6 +31,7 @@ navbar-links:
     - 수상: "research-award"
     - 특허: "research-patent"
     - 워크샵: "research-workshop"
+    - 행사사진 및 포스터: "research-photo"
   한양대학교: "https://www.interior.hanyang.ac.kr"
   
 # --- Logo --- #
