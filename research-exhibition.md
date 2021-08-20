@@ -28,7 +28,7 @@ subtitle:
 
 | 연번 | 이름 | 작품명 | 전시명 | 주관기관 |
 | :------ |:--- | :--- | :--- | :--- |
-| 1 | 김가연, 남경숙 | RE NEW ALL COMPLEX CILTURAL CENTER / 2020 International Invitation Exhibition | Korean Institute of Interior Design |
+| 1 | 김가연, 남경숙 | RE NEW ALL COMPLEX CILTURAL CENTER | 2020 International Invitation Exhibition | Korean Institute of Interior Design |
 | 2 | 김경은, 차승현 | Seasonal Atrium | 2020 International Invitation Exhibition | Korean Institute of Interior Design |
 | 3 | 김동하, 장순각 | Let's Slow Down : from fast consumption to slow "Change" | 2020 International Invitation Exhibition | Korean Institute of Interior Design |
 | 4 | 김동하 외4, 장순각 | WAS - recycling project for environmental problems in the Post Covid 19 era | Seoul Design Festival | Design House |
