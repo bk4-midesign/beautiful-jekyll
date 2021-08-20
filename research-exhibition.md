@@ -32,11 +32,11 @@ subtitle:
 | 2 | 김경은, 차승현 | Seasonal Atrium | 2020 International Invitation Exhibition | Korean Institute of Interior Design |
 | 3 | 김동하, 장순각 | Let's Slow Down : from fast consumption to slow "Change" | 2020 International Invitation Exhibition | Korean Institute of Interior Design |
 | 4 | 김동하 외4, 장순각 | WAS - recycling project for environmental problems in the Post Covid 19 era | Seoul Design Festival | Design House |
-| 5 | 김선희, 남경숙 | Variation of Circle / 2020 International Invitation Exhibition | Korean Institute of Interior Design |
+| 5 | 김선희, 남경숙 | Variation of Circle | 2020 International Invitation Exhibition | Korean Institute of Interior Design |
 | 6 | 김선희, 유단경, 남경숙 | The Beauty of Reuse (WAS - recycling project for environmental problems in the Post Covid 19 era) | Seoul Design Festival | Design House |
 | 7 | 맹호영, 현경훈 | Join Seoung-su | 2020 International Invitation Exhibition | Korean Institute of Interior Design |
 | 8 | 문승현, 황연숙 | Layers of City and Space | 2020 International Invitation Exhibition | Korean Institute of Interior Design |
-| 9 | 문승현, 황연숙 | Through the wind / 2020 International Space Design Invitation Exhibition | Korean Institute of Interior Design |
+| 9 | 문승현, 황연숙 | Through the wind | 2020 International Space Design Invitation Exhibition | Korean Institute of Interior Design |
 | 10 | 박지혜, 남경숙 | DOMINION_COSMETICS SHOP | 2020 International Invitation Exhibition | Korean Institute of Interior Design |
 | 11 | 손기훈, 현경훈 | Space Connection | 2020 International Invitation Exhibition | Korean Institute of Interior Design |
 | 12 | 송수진, 장순각 | Misty Lily-Boutique Hotel Design | 2020 International Invitation Exhibition | Korean Institute of Interior Design |
