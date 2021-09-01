@@ -36,7 +36,7 @@ subtitle:
 | 6 | 김선희, 유단경, 남경숙 | The Beauty of Reuse (WAS - recycling project for environmental problems in the Post Covid 19 era) | Seoul Design Festival | Design House |
 | 7 | 맹호영, 현경훈 | Join Seoung-su | 2020 International Invitation Exhibition | Korean Institute of Interior Design |
 | 8 | 문승현, 황연숙 | Layers of City and Space | 2020 International Invitation Exhibition | Korean Institute of Interior Design |
-| 9 | 문승현, 황연숙 | Through the wind | 2020 International Space Design Invitation Exhibition | Korean Institute of Interior Design |
+| 9 | 문승현, 황연숙 | Through the wind | 2020 International Space Design Invitation Exhibition | Korean Institute of Spatial Design |
 | 10 | 박지혜, 남경숙 | DOMINION_COSMETICS SHOP | 2020 International Invitation Exhibition | Korean Institute of Interior Design |
 | 11 | 손기훈, 현경훈 | Space Connection | 2020 International Invitation Exhibition | Korean Institute of Interior Design |
 | 12 | 송수진, 장순각 | Misty Lily-Boutique Hotel Design | 2020 International Invitation Exhibition | Korean Institute of Interior Design |
@@ -45,7 +45,11 @@ subtitle:
 | 15 | 윤수민, 황연숙 | Way to the Hidden Space | 2020 International Invitation Exhibition | Korean Institute of Interior Design |
 | 16 | 이승현, 장순각 | Slow Life in the Mirror | 2020 International Invitation Exhibition | Korean Institute of Interior Design |
 | 17 | 이자영, 황연숙 | Regret in Everyday Life | 2020 International Invitation Exhibition | Korean Institute of Interior Design | 
-| 18 | 이자영, 황연숙 | Nomad | 2020 International Space Design Invitation Exhibition | Korean Institute of Interior Design |
+| 18 | 이자영, 황연숙 | Nomad | 2020 International Space Design Invitation Exhibition | Korean Institute of Spatial Design |
+| 19 | 어성신, 황연숙 | Immersive Space | 2020 International Space Design Invitation Exhibition | Korean Institute of Spatial Design |
+| 20 | 노이경, 황연숙 | Kinetic Layer in Space | 2020 International Space Design Invitation Exhibition | Korean Institute of Spatial Design |
+| 21 | 이수복, 황연숙 | One design | 2020 International Space Design Invitation Exhibition | Korean Institute of Spatial Design |
+
 
 <br>
 
@@ -53,6 +57,7 @@ subtitle:
 
 | 연번 | 이름 | 작품명 | 전시명 | 주관기관 |
 | :------ |:--- | :--- | :--- | :--- |
-| 예시 | 예시 | 예시 | 예시 | 예시 |
+| 1 | 장순각 | 이태원 텐 큐브(Ten Cube) | - | 에이엔뉴스 |
+
 
 <br>
