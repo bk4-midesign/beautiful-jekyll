@@ -15,9 +15,8 @@ subtitle:
 | 3 | Abdo Abdullah Ahmed Gassar, Seung Hyun Cha | Review of geographic information systems-based rooftop solar photovoltaic potential estimation approaches at urban scales | Applied Energy | SCIE |
 | 4 | Junyoung Jang, Seungjun Ahn, Seung Hyun Cha, Kyeongwoon Cho, Choongwan Koo, Tae Wan Kim | Towards Productivity in Future Construction: Mapping Knowledge and Finding Insights for Achieving Successful Offsite Construction Projects | Journal of Computational Design and Engineering | SCIE |
 | 5 | Seonghoon Ban, Kyung Hoon Hyun | Real-Time Physical Prototyping Tool Design Based on Shape-Changing Display | Applied Sciences | SCIE |
-| 6 | Bo Hyeon Park, Kihoon Son, Kyung Hoon Hyun | - nterior Design Network of Furnishing and Color Pairing with Object Detection and Color Analysis based on Deep Learning(Communications in Computer and Information Science | CAAD(Computer Aided Architectural Design) Futures | 국제학회 |
-| 7 | Hoyoung Maeng, Kyung Hoon Hyun | Data-Driven Analysis of Spatial Patterns Through Large-Scale Datasets of Building Floor Plan | 26th International Conference of the Association for Computer-Aided Architectural Design Research in Asia (CAADRIA 2021) | 국제학회 |
-| 8 | Kihoon Son, Kyung Hoon Hyun | A Framework for Multivariate Data Based Floor Plan Retrieval and Generation | 26th International Conference of the Association for Computer-Aided Architectural Design Research in Asia (CAADRIA 2021) | 국제학회 |
+| 6 | Bo Hyeon Park, Kihoon Son, Kyung Hoon Hyun | Interior Design Network of Furnishing and Color Pairing with Object Detection and Color Analysis based on Deep Learning(Communications in Computer and Information Science | CAAD(Computer Aided Architectural Design) Futures | SCOPUS |
+| 7 | Yeon-Sook Hwang | Korean Urban Regeneration: Design Emphasizing Historical, Regional, and Cultural Values | Journal of Interior Design | A&HCI |
 
 
 <br>
@@ -28,7 +27,8 @@ subtitle:
 | :------ |:--- | :--- | :--- | :--- |
 | 1 | 맹호영, 현경훈 | 딥러닝 기반 아파트 단위 평면 빅데이터 분석 연구 | 한국실내디자인학회 학술대회논문집 | KCI |
 | 2 | 윤수민, 황연숙 | 노인의 시지각 특성을 반영한 지하철역 사인시스템 평가 | 한국실내디자인학회 학술대회논문집 | KCI |
-| 3 | 송인주, 풍용, 황연숙 | 교외형 프리미엄 아울렛 공간에 나타난 자연요소 특성에 관한 연구 | 한국실내디자인학회 학술대회논문집 | KCI |
+| 3 | 송인주, 풍용, 황연숙 | 교외형 프리미엄 아울렛 공간에 나타난 자연요소 특성에 관한 연구 | 한국공간디자인학회 학술대회논문집 | KCI |
+| 4 | 채성우, 석정은, 안구진, 장순각 | 영화‘기생충’에서 나타나는 몰입도에 따른 감성 키워드 비교 분석 연구 | 한국실내디자인학회 학술대회논문집 | KCI |
  
 <br>
 
@@ -41,7 +41,7 @@ subtitle:
 | 1 | Hoyoung Maeng, Kyung Hoon Hyun | Multi-Objective Pareto Optimization of Tensile Membrane Architecture for Energy Harvesting | Applied Sciences | SCIE |
 | 2 | JaeHoon Ma, Seung Hyun Cha | A human data-driven interaction estimation using IoT sensors for workplace design | Automation in Construction | SCIE |
 | 3 | Seung Hyun Cha, Shaojie Zhang M.S, Tae Wan Kim | Effects of Interior Color Schemes on Emotion, Task Performance, and Heart Rate in Immersive Virtual Environments | Journal of Interior Design | A&HCI |
-| 4 | SAbdo Abdullah Ahmed Gassar, Seung Hyun Cha | Energy prediction techniques for large-scale buildings towards a sustainable built environment: A review | Energy and Buildings | SCIE |
+| 4 | Abdo Abdullah Ahmed Gassar, Seung Hyun Cha | Energy prediction techniques for large-scale buildings towards a sustainable built environment: A review | Energy and Buildings | SCIE |
 
 <br>
 
