@@ -47,7 +47,7 @@ subtitle:
 
 ![차승현 교수님 흑백](https://user-images.githubusercontent.com/81661353/113112655-6384a180-9244-11eb-8408-884691f90150.jpg)
 
-### 차승현 교수
+### 차승현 교수(~2021.08.31 까지 참여)
 <br>
 전공 및 연구분야 - Future Cities, IoT/VR/AR, Digital Twin, Smart Design<br>
 담당과목 - FM리서치 프로젝트, 건축모델링1, IoT기반공간디자인, 저탄소빌딩디자인<br>
