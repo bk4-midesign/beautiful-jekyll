@@ -17,6 +17,7 @@ subtitle:
 | 5 | Seonghoon Ban, Kyung Hoon Hyun | Real-Time Physical Prototyping Tool Design Based on Shape-Changing Display | Applied Sciences | SCIE |
 | 6 | Bo Hyeon Park, Kihoon Son, Kyung Hoon Hyun | Interior Design Network of Furnishing and Color Pairing with Object Detection and Color Analysis based on Deep Learning(Communications in Computer and Information Science | CAAD(Computer Aided Architectural Design) Futures | SCOPUS |
 | 7 | Yeon-Sook Hwang | Korean Urban Regeneration: Design Emphasizing Historical, Regional, and Cultural Values | Journal of Interior Design | A&HCI |
+| 8 | Soojung Chang, Kyeongsook Nam | Smart Home Adoption: The Impact of User Characteristics and Differences in Perception of Benefits | Buildings | |
 
 
 <br>
