@@ -17,7 +17,7 @@ subtitle:
 | 5 | Seonghoon Ban, Kyung Hoon Hyun | Real-Time Physical Prototyping Tool Design Based on Shape-Changing Display | Applied Sciences | SCIE |
 | 6 | Bo Hyeon Park, Kihoon Son, Kyung Hoon Hyun | Interior Design Network of Furnishing and Color Pairing with Object Detection and Color Analysis based on Deep Learning(Communications in Computer and Information Science | CAAD(Computer Aided Architectural Design) Futures | SCOPUS |
 | 7 | Yeon-Sook Hwang | Korean Urban Regeneration: Design Emphasizing Historical, Regional, and Cultural Values | Journal of Interior Design | A&HCI |
-| 8 | Soojung Chang, Kyeongsook Nam | Smart Home Adoption: The Impact of User Characteristics and Differences in Perception of Benefits | Buildings | |
+| 8 | Soojung Chang, Kyeongsook Nam | Smart Home Adoption: The Impact of User Characteristics and Differences in Perception of Benefits | Buildings | SCIE |
 
 
 <br>
@@ -30,6 +30,9 @@ subtitle:
 | 2 | 윤수민, 황연숙 | 노인의 시지각 특성을 반영한 지하철역 사인시스템 평가 | 한국실내디자인학회 학술대회논문집 | KCI |
 | 3 | 송인주, 풍용, 황연숙 | 교외형 프리미엄 아울렛 공간에 나타난 자연요소 특성에 관한 연구 | 한국공간디자인학회 학술대회논문집 | KCI |
 | 4 | 채성우, 석정은, 안구진, 장순각 | 영화‘기생충’에서 나타나는 몰입도에 따른 감성 키워드 비교 분석 연구 | 한국실내디자인학회 학술대회논문집 | KCI |
+| 5 | 박지혜, 남경숙 | 공간 확장이 적용된 몰입형 미디어아트 공간에서의 사용자 경험(UX) 디자인 개선 프레임 워크 | 한국실내디자인학회 학술대회논문집 | KCI |
+| 6 | 김경은, 박예은 | 노인보호구역의 보행환경요소 분석 | 한국공간디자인학회 학술대회논문집 | KCI |
+
  
 <br>
 
