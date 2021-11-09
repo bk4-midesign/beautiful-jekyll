@@ -11,6 +11,10 @@ subtitle:
 | 연번 | 이름 | 작품명 | 전시명 | 주관기관 |
 | :------ |:--- | :--- | :--- | :--- |
 | 1 | 송수진, 송인주, 정수림, 장순각 | WAS - recycling project for environmental problems in the Post Covid 19 era | 2021 Seoul Living Design Festival | Design House |
+| 2 | 김선희, 유단경 | The Beauty of Reuse | 2021 International Invitation Exhibition | Korean Institute of Interior Design |
+| 3 | 김선희, 남경숙 | Unexpected texture | 2021 International Invitation Exhibition | Korean Institute of Interior Design |
+| 4 | 박지혜, 남경숙 | NOMAD | 2021 International Invitation Exhibition | Korean Institute of Interior Design |
+
 
 <br>
 
