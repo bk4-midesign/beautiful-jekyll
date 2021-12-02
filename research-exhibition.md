@@ -14,6 +14,12 @@ subtitle:
 | 2 | 김선희, 유단경 | The Beauty of Reuse | 2021 International Invitation Exhibition | Korean Institute of Interior Design |
 | 3 | 김선희, 남경숙 | Unexpected texture | 2021 International Invitation Exhibition | Korean Institute of Interior Design |
 | 4 | 박지혜, 남경숙 | NOMAD | 2021 International Invitation Exhibition | Korean Institute of Interior Design |
+| 5 | 박예은, 황연숙 | Cube | 2021 International Invitation Exhibition | Korean Institute of Interior Design |
+| 6 | 윤수민, 황연숙 | Museum on the Bridge | 2021 International Invitation Exhibition | Korean Institute of Interior Design |
+| 7 | 전소영, 황연숙 | Nature that transcends time and space | 2021 International Invitation Exhibition | Korean Institute of Interior Design |
+| 8 | 김경은, 황연숙 | 거주자를 위한 백색공간 | 2021 International Space Design Exhibition | Korean Institute of Spatial Design |
+| 9 | 문승현, 황연숙 | 공간 사이의 공간 | 2021 International Space Design Exhibition | Korean Institute of Spatial Design |
+| 10 | 안상녕, 황연숙 | 투명공간의 표현 | 2021 International Space Design Exhibition | Korean Institute of Spatial Design |
 
 
 <br>
