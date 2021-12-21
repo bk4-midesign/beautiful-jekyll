@@ -18,7 +18,7 @@ subtitle:
 
 | 연번 | 제목 | 일시 및 장소 | 내용 및 자료 | 
 | :- | :- | :- | :-------------------------------------------------------------------------------------- | 
-| 1 | Seoul Design Festival 2021 | 2021.12.22 - 26, 5일간 서울 코엑스 3층 Hall C | ![Compressed 외](https://github.com/bk4-midesign/bk4-midesign.github.io/blob/master/_data/12%EC%9B%94%20%EB%B9%84%EA%B5%90%EA%B3%BC%20%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%A8%20%EC%95%88%EB%82%B4.jpg?raw=true) https://hylu-s.hanyang.ac.kr/ |
+| 1 | Seoul Design Festival 2021 | 2021.12.22 - 26, 5일간 서울 코엑스 3층 Hall C | ![Compressed 외](https://github.com/bk4-midesign/bk4-midesign.github.io/blob/master/_data/SDF_poster_05.jpg?raw=true) https://seoul.designfestival.co.kr/sdf/sdf2021/ |
 | 2 | 12월 비교과 프로그램 홍보 안내 | HY-LU 비교과 통합 시스템 | ![12월 비교과 프로그램 홍보 안내](https://github.com/bk4-midesign/bk4-midesign.github.io/blob/master/_data/12%EC%9B%94%20%EB%B9%84%EA%B5%90%EA%B3%BC%20%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%A8%20%EC%95%88%EB%82%B4.jpg?raw=true) https://hylu-s.hanyang.ac.kr/ |
 | 3 | 11월 비교과 프로그램 홍보 안내 | HY-LU 비교과 통합 시스템 | ![11월 비교과 프로그램 홍보 안내](https://github.com/bk4-midesign/bk4-midesign.github.io/blob/master/_data/11%EC%9B%94%20%EB%B9%84%EA%B5%90%EA%B3%BC%20%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%A8%20%EC%95%88%EB%82%B4.jpg?raw=true) https://hylu-s.hanyang.ac.kr/ |
 | 4 | 10월 비교과 프로그램 홍보 안내 | HY-LU 비교과 통합 시스템 | ![10월 비교과 프로그램 홍보 안내](https://github.com/bk4-midesign/bk4-midesign.github.io/blob/master/_data/10%EC%9B%94%20%EB%B9%84%EA%B5%90%EA%B3%BC%20%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%A8%20%EC%95%88%EB%82%B4.jpg?raw=true) https://hylu-s.hanyang.ac.kr/ |
