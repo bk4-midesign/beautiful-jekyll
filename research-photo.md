@@ -6,6 +6,14 @@ subtitle:
 
 <br>
 
+### 2022년
+
+| 연번 | 제목 | 일시 및 장소 | 내용 및 자료 | 
+| :- | :- | :- | :-------------------------------------------------------------------------------------- | 
+| 1 | 예시 | 예시 | 예시 |
+
+<br>
+
 ### 2021년
 
 | 연번 | 제목 | 일시 및 장소 | 내용 및 자료 | 
@@ -23,8 +31,6 @@ subtitle:
 | 11 | 2021 Seoul Living Design Festival | 2021.05.26 - 05.30, 10:30-19:00 | ![WAS - recycling project for environmental problems in the Post Covid 19 era 1](https://github.com/bk4-midesign/bk4-midesign.github.io/blob/master/_data/WAS%20-%20recycling%20project%20for%20environmental%20problems%20in%20the%20Post%20Covid%2019%20era%201.jpg?raw=true) ![WAS - recycling project for environmental problems in the Post Covid 19 era 2](https://github.com/bk4-midesign/bk4-midesign.github.io/blob/master/_data/WAS%20-%20recycling%20project%20for%20environmental%20problems%20in%20the%20Post%20Covid%2019%20era%202.jpg?raw=true)  WAS - recycling project for environmental problems in the Post Covid 19 era  https://www.coexcenter.com/events/seoul-living-design-fair-2/ |
 
 
-
-
 <br>
 
 ### 2020년
@@ -33,4 +39,4 @@ subtitle:
 | :- | :- | :- | :-------------------------------------------------------------------------------------- | 
 | 예시 | 예시 | 예시 | 예시 |
 
-
+<br>
