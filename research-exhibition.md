@@ -40,6 +40,8 @@ subtitle:
 | 8 | 김경은, 황연숙 | 거주자를 위한 백색공간 | 2021 International Space Design Exhibition | Korean Institute of Spatial Design |
 | 9 | 문승현, 황연숙 | 공간 사이의 공간 | 2021 International Space Design Exhibition | Korean Institute of Spatial Design |
 | 10 | 안상녕, 황연숙 | 투명공간의 표현 | 2021 International Space Design Exhibition | Korean Institute of Spatial Design |
+| 11 | 김진호, 김현경, 모준선, 백정재, 장순각 | Various | 2021 International Space Design Exhibition | Korean Institute of Spatial Design |
+| 12 | 김진호, 김현경, 모준선, 장순각 | WAS - recycling | 2021 Seoul Living Design Festival | Design House |
 
 
 <br>
