@@ -4,6 +4,10 @@ title: (BK FOUR) 한양대 Multi Intelligent (MI) 공간재생디자인 인재�
 subtitle:
 ---
 
+### (BK FOUR) 한양대 Multi Intelligent (MI) 공간재생디자인 인재양성팀 2021년 자체평가보고서(최종)
+<a href="http://book.hanyang.ac.kr/Viewer/A6WYZBGJUUTS" target="_blank"> 자체평가보고서 Full Ver. </a>
+
+
 ### (BK FOUR) 한양대 Multi Intelligent (MI) 공간재생디자인 인재양성팀 사업신청서(본문 및 첨부포함)
 <a href="http://book.hanyang.ac.kr/Viewer/A6WYZBGJUUTS" target="_blank"> 사업신청서 Full Ver. </a>
 
