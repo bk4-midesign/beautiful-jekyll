@@ -15,6 +15,7 @@ subtitle:
            1) 사용자 중심 디자인<br>
            2) 사회변화대응형 디자인<br>
            3) 공간재생<br>
+e-mail - ysh@hanyang.ac.kr<br>     
            
 
 <br>
@@ -30,6 +31,7 @@ subtitle:
            1) 실내건축설계 및 이론<br>
            2) ux 디자인<br>
            3) 서비스스케이프 디자인<br>
+e-mail - ksnam@hanyang.ac.kr<br>  
 
 
 <br>
@@ -44,6 +46,7 @@ subtitle:
           1) 건축 및 인테리어 디자인, B.I, S.I<br>
           2) 국내·외 WAS(Waste as Source) Project 전시 기획 및 디자인<br>
           3) 공간 디자인 관련 프로그램(2D, 3D) 연구<br>
+e-mail - jswork@hanyang.ac.kr<br>  
 
 
 <br>
@@ -58,6 +61,7 @@ subtitle:
            1) 디자인 정량화 및 자동화<br>
            2) 지능형 디자인 시스템<br>    
            3) 인터랙션 기술 및 장치<br>
+e-mail - hoonhello@hanyang.ac.kr<br>  
 
 
 <br>
@@ -68,6 +72,7 @@ subtitle:
 전공 및 연구분야 - <a href="https://sites.google.com/view/kyungahchoi"> Kyungah Choi, Ph.D. </a><br>
 담당과목 - 실내색채특론 <br>
 연구영역 - <br>
+e-mail - kchoi@hanyang.ac.kr<br>  
 
 
 <br>
@@ -83,5 +88,7 @@ subtitle:
             1) 지속가능한 디자인<br>
             2) 의사결정시스템<br>
             3) 가상/증강현실 공간 및 메타버스 공간 디자인<br>
+e-mail - mindeed@hanyang.ac.kr<br>  
+
 
 <br>
