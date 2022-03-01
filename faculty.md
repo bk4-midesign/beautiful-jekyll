@@ -44,7 +44,7 @@ subtitle:
 
 
 <br>
-![최경아 교수님](https://github.com/bk4-midesign/bk4-midesign.github.io/blob/master/_data/%EC%B5%9C%EA%B2%BD%EC%95%84%20%EA%B5%90%EC%88%98.jpg?raw=true)
+![최경아 교수님](https://github.com/bk4-midesign/bk4-midesign.github.io/blob/master/_data/%EC%B5%9C%EA%B2%BD%EC%95%84%20%EA%B5%90%EC%88%98%EB%8B%98%20350_450.jpg?raw=true)
 
 ### 최경아 교수 
 <br> 
