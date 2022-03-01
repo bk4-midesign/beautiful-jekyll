@@ -59,7 +59,7 @@ e-mail - jswork@hanyang.ac.kr<br>
 담당과목 - 디자인컴퓨팅 연구, 디자인 컴퓨팅, 가구디자인과 디지털패브리케이션, 공간드로잉과 시각화<br>
 연구영역 - <a href="https://designinformatics.hanyang.ac.kr/"> 디자인 인포매틱스 연구실 Design Informatics Lab </a><br>
            1) 디자인 정량화 및 자동화<br>
-           2) 지능형 디자인 시스템<br>    
+           2) 지능형 디자인 시스템<br>
            3) 인터랙션 기술 및 장치<br>
 e-mail - hoonhello@hanyang.ac.kr<br>  
 
