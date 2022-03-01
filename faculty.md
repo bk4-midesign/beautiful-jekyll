@@ -44,6 +44,15 @@ subtitle:
 
 
 <br>
+![최경아 교수님](https://github.com/bk4-midesign/bk4-midesign.github.io/blob/master/_data/%EC%B5%9C%EA%B2%BD%EC%95%84%20%EA%B5%90%EC%88%98.jpg?raw=true)
+
+### 최경아 교수 
+<br> 
+전공 및 연구분야 - <a href="https://sites.google.com/view/kyungahchoi"> Kyungah Choi, Ph.D. </a><br>
+담당과목 - 실내색채특론 <br>
+
+
+<br>
 
 ![민아람 교수님 흑백](https://user-images.githubusercontent.com/81661353/113104333-5dd68e00-923b-11eb-915a-932328ceac67.jpg)
 
