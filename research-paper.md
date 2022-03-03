@@ -12,7 +12,7 @@ subtitle:
 
 | 연번 | 이름 | 제목 | 학술지명 | 비고(SCI/SCOPUS/기타) |
 | :------ |:--- | :--- | :--- | :--- |
-| 1 | - | - | - | - |
+| 1 | Haejoo Han, Kyung Hoon Hyun | Effects of Virtual Stores' Opaque Exterior on Store Perceptions and Purchase Intentions. | International Journal of Retail & Distribution Management | SSCI (Business & Management) |
 
 <br>
 
