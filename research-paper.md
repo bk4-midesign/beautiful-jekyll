@@ -12,7 +12,11 @@ subtitle:
 
 | 연번 | 이름 | 제목 | 학술지명 | 비고(SCI/SCOPUS/기타) |
 | :------ |:--- | :--- | :--- | :--- |
-| 1 | Haejoo Han, Kyung Hoon Hyun | Effects of Virtual Stores' Opaque Exterior on Store Perceptions and Purchase Intentions. | International Journal of Retail & Distribution Management | SSCI (Business & Management) |
+| 1 | Sookyung Chun, Kyungsook Nam  | Analyzation and prioritization of healthcare environment criteria for designing geriatric long-term care private hospitals in South Korea using an analytic hierarchy process | Architectural Engineering and Design Management | SCIE |
+| 2 | Haejoo Han, Kyung Hoon Hyun | Effects of Virtual Stores' Opaque Exterior on Store Perceptions and Purchase Intentions. | International Journal of Retail & Distribution Management | SSCI (Business & Management) |
+| 3 | Hwan Kim, Kyung Hoon Hyun | Understanding Design Experience in Virtual Reality for Interior Design Process | CAADRIA 2022 | 기타 |
+| 4 | Kihoon Son, Kyungmin Kim, Kyung Hoon Hyun | Paper on Design Exploration | CHI 2022 | 기타 |
+
 
 <br>
 
@@ -20,7 +24,7 @@ subtitle:
 
 | 연번 | 이름 | 제목 | 학술지명 | 비고(KCI/기타) |
 | :------ |:--- | :--- | :--- | :--- |
-| 1 | - | - | - | - |
+| 1 | 유정, 황연숙 | 도시재생 문화예술공간 공용공간의 유니버설디자인 특성 연구 | 한국실내디자인학회 논문집 | KCI |
 
 <br>
 
@@ -33,11 +37,10 @@ subtitle:
 | 1 | JaeHoon Ma, Seung Hyun Cha | A user-specific activity pattern generation framework for evidence-based ABW planning | Building and Environment | SCIE |
 | 2 | TaeHee Jo, JaeHoon Ma, Seung Hyun Cha | Elderly Perception on the Internet of things-based Integrated Smart-Home System | Sensors | SCIE |
 | 3 | Abdo Abdullah Ahmed Gassar, Seung Hyun Cha | Review of geographic information systems-based rooftop solar photovoltaic potential estimation approaches at urban scales | Applied Energy | SCIE |
-| 4 | Junyoung Jang, Seungjun Ahn, Seung Hyun Cha, Kyeongwoon Cho, Choongwan Koo, Tae Wan Kim | Towards Productivity in Future Construction: Mapping Knowledge and Finding Insights for Achieving Successful Offsite Construction Projects | Journal of Computational Design and Engineering | SCIE |
-| 5 | Seonghoon Ban, Kyung Hoon Hyun | Real-Time Physical Prototyping Tool Design Based on Shape-Changing Display | Applied Sciences | SCIE |
-| 6 | Bo Hyeon Park, Kihoon Son, Kyung Hoon Hyun | Interior Design Network of Furnishing and Color Pairing with Object Detection and Color Analysis based on Deep Learning(Communications in Computer and Information Science | CAAD(Computer Aided Architectural Design) Futures | SCOPUS |
-| 7 | Yeon-Sook Hwang | Korean Urban Regeneration: Design Emphasizing Historical, Regional, and Cultural Values | Journal of Interior Design | A&HCI |
-| 8 | Soojung Chang, Kyeongsook Nam | Smart Home Adoption: The Impact of User Characteristics and Differences in Perception of Benefits | Buildings | SCIE |
+| 4 | Seonghoon Ban, Kyung Hoon Hyun | Real-Time Physical Prototyping Tool Design Based on Shape-Changing Display | Applied Sciences | SCIE |
+| 5 | Bo Hyeon Park, Kihoon Son, Kyung Hoon Hyun | Interior Design Network of Furnishing and Color Pairing with Object Detection and Color Analysis based on Deep Learning(Communications in Computer and Information Science | CAAD(Computer Aided Architectural Design) Futures | SCOPUS |
+| 6 | Yeon-Sook Hwang | Korean Urban Regeneration: Design Emphasizing Historical, Regional, and Cultural Values | Journal of Interior Design | A&HCI |
+| 7 | Soojung Chang, Kyeongsook Nam | Smart Home Adoption: The Impact of User Characteristics and Differences in Perception of Benefits | Buildings | SCIE |
 
 
 <br>
@@ -52,6 +55,8 @@ subtitle:
 | 4 | 채성우, 석정은, 안구진, 장순각 | 영화‘기생충’에서 나타나는 몰입도에 따른 감성 키워드 비교 분석 연구 | 한국실내디자인학회 학술대회논문집 | KCI |
 | 5 | 박지혜, 남경숙 | 공간 확장이 적용된 몰입형 미디어아트 공간에서의 사용자 경험(UX) 디자인 개선 프레임 워크 | 한국실내디자인학회 학술대회논문집 | KCI |
 | 6 | 김경은, 박예은 | 노인보호구역의 보행환경요소 분석 | 한국공간디자인학회 학술대회논문집 | KCI |
+| 7 | 문승현, 황연숙 | 도시재생을 통한 복합문화공간의 유니버설디자인 특성 평가 | 한국실내디자인학회 논문집 | KCI |
+| 8 | 민아람, 현경훈 | Human-Building Interaction Trends and Prospects. | 한국건축친환경설비학회 논문집 | 기타 |
 
  
 <br>
@@ -66,6 +71,7 @@ subtitle:
 | 2 | JaeHoon Ma, Seung Hyun Cha | A human data-driven interaction estimation using IoT sensors for workplace design | Automation in Construction | SCIE |
 | 3 | Seung Hyun Cha, Shaojie Zhang M.S, Tae Wan Kim | Effects of Interior Color Schemes on Emotion, Task Performance, and Heart Rate in Immersive Virtual Environments | Journal of Interior Design | A&HCI |
 | 4 | Abdo Abdullah Ahmed Gassar, Seung Hyun Cha | Energy prediction techniques for large-scale buildings towards a sustainable built environment: A review | Energy and Buildings | SCIE |
+| 5 | Junyoung Jang, Seungjun Ahn, Seung Hyun Cha, Kyeongwoon Cho, Choongwan Koo, Tae Wan Kim | Towards Productivity in Future Construction: Mapping Knowledge and Finding Insights for Achieving Successful Offsite Construction Projects | Journal of Computational Design and Engineering | SCIE |
 
 <br>
 
