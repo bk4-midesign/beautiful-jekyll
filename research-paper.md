@@ -15,7 +15,7 @@ subtitle:
 | 1 | Sookyung Chun, Kyungsook Nam  | Analyzation and prioritization of healthcare environment criteria for designing geriatric long-term care private hospitals in South Korea using an analytic hierarchy process | Architectural Engineering and Design Management | SCIE |
 | 2 | Haejoo Han, Kyung Hoon Hyun | Effects of Virtual Stores' Opaque Exterior on Store Perceptions and Purchase Intentions. | International Journal of Retail & Distribution Management | SSCI (Business & Management) |
 | 3 | Hwan Kim, Kyung Hoon Hyun | Understanding Design Experience in Virtual Reality for Interior Design Process | CAADRIA 2022 | 기타 |
-| 5 | Kihoon Son, Kyungmin Kim, Kyung Hoon Hyun | BIGexplore: Bayesian Information Gain Framework for Information Exploration | ACM CHI 2022 | SCIE급 (BKCSA003-컴퓨터과학분야우수학술대회) |
+| 5 | Kihoon Son, Kyungmin Kim, Kyung Hoon Hyun | BIGexplore: Bayesian Information Gain Framework for Information Exploration | ACM CHI 2022 | SCIE (BKCSA003-컴퓨터과학분야우수학술대회) |
 | 6 | Kihoon Son, Kyung Hoon Hyun | Designer-Centric Spatial Design Support | Automation in Construction | SCIE |
 
 <br>
