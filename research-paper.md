@@ -10,8 +10,6 @@ subtitle:
 
 국제논문
 
-<font size="80%">
-
 | 연번 | 이름 | 제목 | 학술지명 | 비고 |
 | :--- |:------ | :---------- | :------ | :-- |
 | 001 | Bo Hyeon Park, Kihoon Son, Kyung Hoon Hyun | Interior Design Network of Furnishing and Color Pairing with Object Detection and Color Analysis based on Deep Learning | Communications in Computer and Information Science | SCOPUS |
@@ -21,8 +19,6 @@ subtitle:
 | 005 | Kihoon Son, Kyungmin Kim, Kyung Hoon Hyun | BIGexplore: Bayesian Information Gain Framework for Information Exploration | ACM CHI 2022 | SCIE (BKCSA003-컴퓨터과학분야우수학술대회) |
 | 006 | Kihoon Son, Kyung Hoon Hyun | Designer-Centric Spatial Design Support | Automation in Construction | SCIE |
 | 007 | Sookyung Chun, Kyungsook Nam  | Analyzation and prioritization of healthcare environment criteria for designing geriatric long-term care private hospitals in South Korea using an analytic hierarchy process | Architectural Engineering and Design Management | SCIE |
-
- </font>
  
 <br>
 
