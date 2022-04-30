@@ -17,7 +17,7 @@ subtitle:
 | 004 | Hwan Kim, Kyung Hoon Hyun | Understanding Design Experience in Virtual Reality for Interior Design Process | CAADRIA 2022 | 기타 |
 | 005 | Kihoon Son, Kyungmin Kim, Kyung Hoon Hyun | BIGexplore: Bayesian Information Gain Framework for Information Exploration | ACM CHI 2022 | SCIE (BKCSA003-컴퓨터과학분야우수학술대회) |
 | 006 | Kihoon Son, Kyung Hoon Hyun | Designer-Centric Spatial Design Support | Automation in Construction | SCIE |
-| 007 | Sookyung Chun, Kyungsook Nam  | Analyzation and prioritization of healthcare environment criteria for designing geriatric long-term care private hospitals in South Korea using an analytic hierarchy process | Architectural Engineering and Design Management | SCIE |
+| 000 | Sookyung Chun, Kyungsook Nam  | Analyzation and prioritization of healthcare environment criteria for designing geriatric long-term care private hospitals in South Korea using an analytic hierarchy process | Architectural Engineering and Design Management | SCIE (early) |
  
 <br>
 #### 국내논문
