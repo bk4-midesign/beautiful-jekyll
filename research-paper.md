@@ -7,8 +7,7 @@ subtitle:
 <br>
 
 ### 2022년
-
-국제논문
+### 국제논문
 
 | 연번 | 이름 | 제목 | 학술지명 | 비고 |
 | :--- |:------ | :---------- | :------ | :-- |
@@ -21,8 +20,7 @@ subtitle:
 | 007 | Sookyung Chun, Kyungsook Nam  | Analyzation and prioritization of healthcare environment criteria for designing geriatric long-term care private hospitals in South Korea using an analytic hierarchy process | Architectural Engineering and Design Management | SCIE |
  
 <br>
-
-국내논문
+### 국내논문
 
 | 연번 | 이름 | 제목 | 학술지명 | 비고 |
 | :--- |:------ | :---------- | :------ | :-- |
@@ -31,8 +29,7 @@ subtitle:
 <br>
 
 ### 2021년
-
-국제논문
+### 국제논문
 
 | 연번 | 이름 | 제목 | 학술지명 | 비고 |
 | :--- |:------ | :---------- | :------ | :-- |
@@ -44,10 +41,8 @@ subtitle:
 | 006 | Yeon-Sook Hwang | Korean Urban Regeneration: Design Emphasizing Historical, Regional, and Cultural Values | Journal of Interior Design | A&HCI |
 | 007 | Soojung Chang, Kyeongsook Nam | Smart Home Adoption: The Impact of User Characteristics and Differences in Perception of Benefits | Buildings | SCIE |
 
-
 <br>
-
-국내논문
+### 국내논문
 
 | 연번 | 이름 | 제목 | 학술지명 | 비고 |
 | :--- |:------ | :---------- | :------ | :-- |
@@ -64,8 +59,7 @@ subtitle:
 <br>
 
 ### 2020년
-
-국제논문
+### 국제논문
 
 | 연번 | 이름 | 제목 | 학술지명 | 비고 |
 | :--- |:------ | :---------- | :------ | :-- |
@@ -77,7 +71,7 @@ subtitle:
 
 <br>
 
-국내논문
+### 국내논문
 
 | 연번 | 이름 | 제목 | 학술지명 | 비고 |
 | :--- |:------ | :---------- | :------ | :-- |
