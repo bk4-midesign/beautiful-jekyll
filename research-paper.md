@@ -14,7 +14,7 @@ subtitle:
 | 001 | Bo Hyeon Park, Kihoon Son, Kyung Hoon Hyun | Interior Design Network of Furnishing and Color Pairing with Object Detection and Color Analysis based on Deep Learning | Communications in Computer and Information Science | SCOPUS |
 | 002 | Haejoo Han, Sujin Park, Kyung Hoon Hyun | Effects of Virtual Stores' Opaque Exterior on Store Perceptions and Purchase Intentions. | International Journal of Retail & Distribution Management | SSCI |
 | 003 | Mutia Anissa Marsya, Dini Hayati, Sooyoung Han, Dang Xuan Long, Kyungah Choi, Jongin Hong | UV-harvesting dyes featuring a fluorene donor for visibly transparent and colorless dye-sensitized solar cells | Dyes and Pigments | SCIE |
-| 004 | Hwan Kim, Kyung Hoon Hyun | Understanding Design Experience in Virtual Reality for Interior Design Process | CAADRIA 2022 | 기타 |
+| 004 | Hwan Kim, Kyung Hoon Hyun | Understanding Design Experience in Virtual Reality for Interior Design Process | CAADRIA 2022 | 국제학회 |
 | 005 | Kihoon Son, Kyungmin Kim, Kyung Hoon Hyun | BIGexplore: Bayesian Information Gain Framework for Information Exploration | ACM CHI 2022 | SCIE (BKCSA003-컴퓨터과학분야우수학술대회) |
 | 006 | Kihoon Son, Kyung Hoon Hyun | Designer-Centric Spatial Design Support | Automation in Construction | SCIE |
 | 000 | Sookyung Chun, Kyungsook Nam  | Analyzation and prioritization of healthcare environment criteria for designing geriatric long-term care private hospitals in South Korea using an analytic hierarchy process | Architectural Engineering and Design Management | SCIE (early) |
@@ -37,7 +37,7 @@ subtitle:
 | 002 | TaeHee Jo, JaeHoon Ma, Seung Hyun Cha | Elderly Perception on the Internet of things-based Integrated Smart-Home System | Sensors | SCIE |
 | 003 | Abdo Abdullah Ahmed Gassar, Seung Hyun Cha | Review of geographic information systems-based rooftop solar photovoltaic potential estimation approaches at urban scales | Applied Energy | SCIE |
 | 004 | Seonghoon Ban, Kyung Hoon Hyun | Real-Time Physical Prototyping Tool Design Based on Shape-Changing Display | Applied Sciences | SCIE |
-| 005 | Bo Hyeon Park, Kihoon Son, Kyung Hoon Hyun | Interior Design Network of Furnishing and Color Pairing with Object Detection and Color Analysis based on Deep Learning | CAAD Futures 2021 | 기타 |
+| 005 | Bo Hyeon Park, Kihoon Son, Kyung Hoon Hyun | Interior Design Network of Furnishing and Color Pairing with Object Detection and Color Analysis based on Deep Learning | CAAD Futures 2021 | 국제학회 |
 | 006 | Yeon-Sook Hwang | Korean Urban Regeneration: Design Emphasizing Historical, Regional, and Cultural Values | Journal of Interior Design | A&HCI |
 | 007 | Soojung Chang, Kyeongsook Nam | Smart Home Adoption: The Impact of User Characteristics and Differences in Perception of Benefits | Buildings | SCIE |
 
