@@ -11,7 +11,7 @@ subtitle:
 국제논문
 
 | 연번 | 이름 | 제목 | 학술지명 | 비고 |
-| :-- |:------ | :---------- | :------ | :-- |
+| :--- |:------ | :---------- | :------ | :-- |
 | 1 | Mutia Anissa Marsya, Dini Hayati, Sooyoung Han, Dang Xuan Long, Kyungah Choi, Jongin Hong | UV-harvesting dyes featuring a fluorene donor for visibly transparent and colorless dye-sensitized solar cells | Dyes and Pigments | SCIE |
 | 2 | Sookyung Chun, Kyungsook Nam  | Analyzation and prioritization of healthcare environment criteria for designing geriatric long-term care private hospitals in South Korea using an analytic hierarchy process | Architectural Engineering and Design Management | SCIE |
 | 3 | Bo Hyeon Park, Kihoon Son, Kyung Hoon Hyun | Interior Design Network of Furnishing and Color Pairing with Object Detection and Color Analysis based on Deep Learning | Communications in Computer and Information Science | SCOPUS |
@@ -25,7 +25,7 @@ subtitle:
 국내논문
 
 | 연번 | 이름 | 제목 | 학술지명 | 비고 |
-| :-- |:------ | :---------- | :------ | :-- |
+| :--- |:------ | :---------- | :------ | :-- |
 | 1 | 유정, 황연숙 | 도시재생 문화예술공간 공용공간의 유니버설디자인 특성 연구 | 한국실내디자인학회 논문집 | KCI |
 
 <br>
@@ -35,7 +35,7 @@ subtitle:
 국제논문
 
 | 연번 | 이름 | 제목 | 학술지명 | 비고 |
-| :-- |:------ | :---------- | :------ | :-- |
+| :--- |:------ | :---------- | :------ | :-- |
 | 1 | JaeHoon Ma, Seung Hyun Cha | A user-specific activity pattern generation framework for evidence-based ABW planning | Building and Environment | SCIE |
 | 2 | TaeHee Jo, JaeHoon Ma, Seung Hyun Cha | Elderly Perception on the Internet of things-based Integrated Smart-Home System | Sensors | SCIE |
 | 3 | Abdo Abdullah Ahmed Gassar, Seung Hyun Cha | Review of geographic information systems-based rooftop solar photovoltaic potential estimation approaches at urban scales | Applied Energy | SCIE |
@@ -50,7 +50,7 @@ subtitle:
 국내논문
 
 | 연번 | 이름 | 제목 | 학술지명 | 비고 |
-| :-- |:------ | :---------- | :------ | :-- |
+| :--- |:------ | :---------- | :------ | :-- |
 | 1 | 맹호영, 현경훈 | 딥러닝 기반 아파트 단위 평면 빅데이터 분석 연구 | 한국실내디자인학회 학술대회논문집 | KCI |
 | 2 | 윤수민, 황연숙 | 노인의 시지각 특성을 반영한 지하철역 사인시스템 평가 | 한국실내디자인학회 학술대회논문집 | KCI |
 | 3 | 송인주, 풍용, 황연숙 | 교외형 프리미엄 아울렛 공간에 나타난 자연요소 특성에 관한 연구 | 한국공간디자인학회 학술대회논문집 | KCI |
@@ -68,7 +68,7 @@ subtitle:
 국제논문
 
 | 연번 | 이름 | 제목 | 학술지명 | 비고 |
-| :-- |:------ | :---------- | :------ | :-- |
+| :--- |:------ | :---------- | :------ | :-- |
 | 1 | Hoyoung Maeng, Kyung Hoon Hyun | Multi-Objective Pareto Optimization of Tensile Membrane Architecture for Energy Harvesting | Applied Sciences | SCIE |
 | 2 | JaeHoon Ma, Seung Hyun Cha | A human data-driven interaction estimation using IoT sensors for workplace design | Automation in Construction | SCIE |
 | 3 | Seung Hyun Cha, Shaojie Zhang M.S, Tae Wan Kim | Effects of Interior Color Schemes on Emotion, Task Performance, and Heart Rate in Immersive Virtual Environments | Journal of Interior Design | A&HCI |
@@ -79,8 +79,8 @@ subtitle:
 
 국내논문
 
-| 연번 | 이름 | 제목 | 학술지명 | 비고) |
-| :-- |:------ | :---------- | :------ | :-- |
+| 연번 | 이름 | 제목 | 학술지명 | 비고 |
+| :--- |:------ | :---------- | :------ | :-- |
 | 1 | 마재훈, 차승현 | NWW 오피스 계획을 위한 BLE 비컨 기반 공간사용정보 추정 | 한국CDE학회 논문집 | KCI |
 | 2 | 김선희, 남경숙 | 한국 현대 건축 표피에 나타나는 디지털미디어의 발전 현황 연구 | 한국실내디자인학회 논문집 | KCI |
 | 3 | 김선희, 김혜자, 황연숙 | 청년복합문화공간의 공간구성 및 사용자 만족도 분석 | 한국실내디자인학회 논문집 | KCI |
