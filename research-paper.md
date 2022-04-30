@@ -7,7 +7,7 @@ subtitle:
 <br>
 
 ### 2022년
-### 국제논문
+#### 국제논문
 
 | 연번 | 이름 | 제목 | 학술지명 | 비고 |
 | :--- |:------ | :---------- | :------ | :-- |
@@ -20,7 +20,7 @@ subtitle:
 | 007 | Sookyung Chun, Kyungsook Nam  | Analyzation and prioritization of healthcare environment criteria for designing geriatric long-term care private hospitals in South Korea using an analytic hierarchy process | Architectural Engineering and Design Management | SCIE |
  
 <br>
-### 국내논문
+#### 국내논문
 
 | 연번 | 이름 | 제목 | 학술지명 | 비고 |
 | :--- |:------ | :---------- | :------ | :-- |
@@ -29,7 +29,7 @@ subtitle:
 <br>
 
 ### 2021년
-### 국제논문
+#### 국제논문
 
 | 연번 | 이름 | 제목 | 학술지명 | 비고 |
 | :--- |:------ | :---------- | :------ | :-- |
@@ -42,7 +42,7 @@ subtitle:
 | 007 | Soojung Chang, Kyeongsook Nam | Smart Home Adoption: The Impact of User Characteristics and Differences in Perception of Benefits | Buildings | SCIE |
 
 <br>
-### 국내논문
+#### 국내논문
 
 | 연번 | 이름 | 제목 | 학술지명 | 비고 |
 | :--- |:------ | :---------- | :------ | :-- |
@@ -55,11 +55,10 @@ subtitle:
 | 007 | 문승현, 황연숙 | 도시재생을 통한 복합문화공간의 유니버설디자인 특성 평가 | 한국실내디자인학회 논문집 | KCI |
 | 008 | 민아람, 현경훈 | Human-Building Interaction Trends and Prospects. | 한국건축친환경설비학회 논문집 | 기타 |
 
- 
 <br>
 
 ### 2020년
-### 국제논문
+#### 국제논문
 
 | 연번 | 이름 | 제목 | 학술지명 | 비고 |
 | :--- |:------ | :---------- | :------ | :-- |
@@ -71,7 +70,7 @@ subtitle:
 
 <br>
 
-### 국내논문
+#### 국내논문
 
 | 연번 | 이름 | 제목 | 학술지명 | 비고 |
 | :--- |:------ | :---------- | :------ | :-- |
