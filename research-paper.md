@@ -10,7 +10,7 @@ subtitle:
 
 국제논문
 
-| 연번asdasdas | 이름 | 제목 | 학술지명 | 비고 |
+| 연 번 | 이 름 | 제 목 | 학 술 지 명 | 비 고 |
 | :--- |:------ | :---------- | :------ | :-- |
 | 1 | Mutia Anissa Marsya, Dini Hayati, Sooyoung Han, Dang Xuan Long, Kyungah Choi, Jongin Hong | UV-harvesting dyes featuring a fluorene donor for visibly transparent and colorless dye-sensitized solar cells | Dyes and Pigments | SCIE |
 | 2 | Sookyung Chun, Kyungsook Nam  | Analyzation and prioritization of healthcare environment criteria for designing geriatric long-term care private hospitals in South Korea using an analytic hierarchy process | Architectural Engineering and Design Management | SCIE |
