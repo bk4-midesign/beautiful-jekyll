@@ -10,7 +10,7 @@ subtitle:
 
 | 연번 | 제목 | 일시 및 장소 | 내용 및 자료 | 
 | :- | :- | :- | :-------------------------------------------------------------------------------------- | 
-| 1 | 22년 5월 비교과 프로그램 홍보 안내 | HY-LU 비교과 통합 시스템 | ![22년 5월 비교과 프로그램 홍보 안내](https://github.com/bk4-midesign/bk4-midesign.github.io/blob/master/_data/22%EB%85%84%205%EC%9B%94%20%EB%B9%84%EA%B5%90%EA%B3%BC%20%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%A8%20%EC%95%88%EB%82%B4.png?raw=true) https://hylu-s.hanyang.ac.kr/ |
+| 1 | 22년 5월 비교과 프로그램 홍보 안내 | HY-LU 비교과 통합 시스템 | ![22년 5월 비교과 프로그램 홍보 안내](https://github.com/bk4-midesign/bk4-midesign.github.io/blob/master/_data/22%EB%85%84%205%EC%9B%94%20%EB%B9%84%EA%B5%90%EA%B3%BC%20%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%A8%20%EC%95%88%EB%82%B4.png?raw=true) <a href="https://hylu-s.hanyang.ac.kr/">|
 | 2 | 22년 4월 비교과 프로그램 홍보 안내 | HY-LU 비교과 통합 시스템 | ![22년 4월 비교과 프로그램 홍보 안내](https://github.com/bk4-midesign/bk4-midesign.github.io/blob/master/_data/22%EB%85%84%204%EC%9B%94%20%EB%B9%84%EA%B5%90%EA%B3%BC%20%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%A8%20%EC%95%88%EB%82%B4.png?raw=true) https://hylu-s.hanyang.ac.kr/ |
 | 3 | 22년 3월 비교과 프로그램 홍보 안내 | HY-LU 비교과 통합 시스템 | ![22년 3월 비교과 프로그램 홍보 안내](https://github.com/bk4-midesign/bk4-midesign.github.io/blob/master/_data/22%EB%85%84%203%EC%9B%94%20%EB%B9%84%EA%B5%90%EA%B3%BC%20%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%A8%20%EC%95%88%EB%82%B4.png?raw=true) https://hylu-s.hanyang.ac.kr/ |
 | 4 | 22년 2월 비교과 프로그램 홍보 안내 | HY-LU 비교과 통합 시스템 | ![22년 2월 비교과 프로그램 홍보 안내](https://github.com/bk4-midesign/bk4-midesign.github.io/blob/master/_data/22%EB%85%84%202%EC%9B%94%20%EB%B9%84%EA%B5%90%EA%B3%BC%20%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%A8%20%EC%95%88%EB%82%B4.png?raw=true) https://hylu-s.hanyang.ac.kr/ |
