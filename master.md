@@ -76,5 +76,5 @@ subtitle:
 ### 졸업조건
 BK 지원 학생의 경우,<br>
 
-![123](https://user-images.githubusercontent.com/81661353/113099738-6af07e80-9235-11eb-8925-de9da8943157.png)
+![123](https://github.com/bk4-midesign/bk4-midesign.github.io/blob/master/_data/%EC%A1%B8%EC%97%85%EC%9A%94%EA%B1%B4.png?raw=true)
 
