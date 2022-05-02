@@ -74,10 +74,11 @@ subtitle:
 
 ※ 학과별 졸업이수 요건은 학과내규에 따라 달라질 수 있으므로, 반드시 학과 내규를 확인하시기 바랍니다.<br>
 
-
+<br>
 
 ### 졸업조건
 BK 지원 학생의 경우,<br>
 
-![123](https://user-images.githubusercontent.com/81661353/113099738-6af07e80-9235-11eb-8925-de9da8943157.png)
+![123](https://github.com/bk4-midesign/bk4-midesign.github.io/blob/master/_data/%EC%A1%B8%EC%97%85%EC%9A%94%EA%B1%B4.png?raw=true)
+
 
