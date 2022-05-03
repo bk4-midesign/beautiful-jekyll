@@ -20,6 +20,7 @@ subtitle:
 | 000 | Sookyung Chun, Kyungsook Nam  | Analyzation and prioritization of healthcare environment criteria for designing geriatric long-term care private hospitals in South Korea using an analytic hierarchy process | Architectural Engineering and Design Management | SCIE (early) |
  
 <br>
+
 #### 국내논문
 
 | 연번 | 이름 | 제목 | 학술지명 | 비고 |
@@ -44,6 +45,7 @@ subtitle:
 | 007 | Soojung Chang, Kyeongsook Nam | Smart Home Adoption: The Impact of User Characteristics and Differences in Perception of Benefits | Buildings | SCIE |
 
 <br>
+
 #### 국내논문
 
 | 연번 | 이름 | 제목 | 학술지명 | 비고 |
@@ -86,6 +88,5 @@ subtitle:
 | 008 | 김선희, 김혜자, 황연숙 | 청년복합문화공간의 공간구성 및 사용자 만족도 분석 | 한국실내디자인학회 논문집 | KCI |
 | 009 | 박지혜, 남경숙 | 키네틱 요소가 적용된 실내공간의 표현 특성과 방향성 연구 | 한국실내디자인학회 논문집 | KCI |
 | 010 | 임미, 남경숙 | 대형 복합 상업시설 패션구역의 동선체계 연구 | 한국실내디자인학회 논문집 | KCI |
-
 
 <br>
