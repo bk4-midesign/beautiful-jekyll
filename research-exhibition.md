@@ -12,7 +12,9 @@ subtitle:
 
 | 연번 | 이름 | 작품명 | 전시명 | 주관기관 |
 | :------ |:--- | :--- | :--- | :--- |
-| 1 | - |  - | - | - |
+| 1 | 최희지, 황연숙 | Hub Band in Workspace | 2022 International Invitation Exhibition | Korean Institute of Interior Design |
+| 2 | 전지현, 황연숙 | ECO Healing Ceinter(에코힐링센터) | 2022 International Invitation Exhibition | Korean Institute of Interior Design |
+
 
 <br>
 
