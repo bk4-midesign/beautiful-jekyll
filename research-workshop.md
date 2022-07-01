@@ -11,8 +11,9 @@ subtitle:
 
 | 연번 | 이름 | 제목 및 명칭 | 일시 | 비고 | 기타 | 
 | :------ |:--- | :--- | :--- | :--- | :--- | 
-| 1 | Dr. Jiayu Wu Reader in Intelligent Mobility Design Intelligent Mobility Design Centre Royal College of Art | Spring 2022 International Seminar Series on Design Hanyang University | Monday, May 30, 2022 06:00 – 07:00 PM | Zoom Meeting | ![6월 온라인 특강](https://github.com/bk4-midesign/bk4-midesign.github.io/blob/master/_data/Dr.%20Jiayu%20Wu.png?raw=true) Join Zoom Meeting https://us02web.zoom.us/j/84047306751?pwd=dxsSqVVWRHS_9sylF0EepzOdX_3DGR.1  |
-| 2 | UIUC, Prof. Harrison Kim | Spring 2022 International Seminar Series on Design Hanyang University | May 20, 2022 09:00 - 10:00 AM Seoul | Zoom Meeting | ![5월 온라인 특강](https://github.com/bk4-midesign/bk4-midesign.github.io/blob/master/_data/Prof.%20Harrison%20Kim.png?raw=true) Join Zoom Meeting https://us02web.zoom.us/j/82683336002?pwd=am5mMWF5NXBiM3N0QzRXMkhxSE1rdz09#success | 
+| 1 | UCUI, Prof. Cliff Shin | Spring 2022 International Seminar Series on Design Hanyang University | 2022.06.17 (Fri) 9:00 AM – 10:00 AM Seoul | Zoom Meeting | ![6월 온라인 특강](https://github.com/bk4-midesign/bk4-midesign.github.io/blob/master/_data/22%EB%85%84%206%EC%9B%94%20%ED%8A%B9%EA%B0%95%20Cliff%20Shin.png?raw=true) Join Zoom Meeting Join Zoom Meeting (Meeting ID: 874 0520 0212, PW: 275777) | 
+| 2 | Dr. Jiayu Wu Reader in Intelligent Mobility Design Intelligent Mobility Design Centre Royal College of Art | Spring 2022 International Seminar Series on Design Hanyang University | Monday, May 30, 2022 06:00 – 07:00 PM | Zoom Meeting | ![5월 온라인 특강](https://github.com/bk4-midesign/bk4-midesign.github.io/blob/master/_data/Dr.%20Jiayu%20Wu.png?raw=true) Join Zoom Meeting https://us02web.zoom.us/j/84047306751?pwd=dxsSqVVWRHS_9sylF0EepzOdX_3DGR.1  |
+| 3 | UIUC, Prof. Harrison Kim | Spring 2022 International Seminar Series on Design Hanyang University | May 20, 2022 09:00 - 10:00 AM Seoul | Zoom Meeting | ![5월 온라인 특강](https://github.com/bk4-midesign/bk4-midesign.github.io/blob/master/_data/Prof.%20Harrison%20Kim.png?raw=true) Join Zoom Meeting https://us02web.zoom.us/j/82683336002?pwd=am5mMWF5NXBiM3N0QzRXMkhxSE1rdz09#success | 
 
 
 <br>
