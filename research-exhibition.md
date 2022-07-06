@@ -44,6 +44,8 @@ subtitle:
 | 10 | 안상녕, 황연숙 | 투명공간의 표현 | 2021 International Space Design Exhibition | Korean Institute of Spatial Design |
 | 11 | 김진호, 김현경, 모준선, 백정재, 장순각 | Various | 2021 International Space Design Exhibition | Korean Institute of Spatial Design |
 | 12 | 김진호, 김현경, 모준선, 장순각 | WAS - recycling | 2021 Seoul Living Design Festival | Design House |
+| 13 | 박보현, 현경훈 | Wave movement | 2021 International Invitation Exhibition | Korean Institute of Interior Design |
+| 14 | 이승원, 현경훈 | Elementary School For Multi-way Education | 2021 International Invitation Exhibition | Korean Institute of Interior Design |
 
 
 <br>
