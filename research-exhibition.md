@@ -17,7 +17,7 @@ subtitle:
 | 3 | 김수민 | Daily life in the sea | Was project - 2022 Tokyo life style week | RX Japan Ltd. |
 | 4 | 김현경 | Party-oca | Was project - 2022 Tokyo life style week | RX Japan Ltd. |
 | 5 | 박상범 | Cofferapy | Was project - 2022 Tokyo life style week | RX Japan Ltd. |
-| 6 |  | Afternoon imagination| Was project - 2022 Tokyo life style week | RX Japan Ltd. |
+| 6 | 장세빈 | Afternoon imagination| Was project - 2022 Tokyo life style week | RX Japan Ltd. |
 
 <br>
 
