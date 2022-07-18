@@ -14,7 +14,10 @@ subtitle:
 | :------ |:--- | :--- | :--- | :--- |
 | 1 | 최희지, 황연숙 | Hub Band in Workspace | 2022 International Invitation Exhibition | Korean Institute of Interior Design |
 | 2 | 전지현, 황연숙 | ECO Healing Ceinter(에코힐링센터) | 2022 International Invitation Exhibition | Korean Institute of Interior Design |
-
+| 3 | 김수민 | Daily life in the sea | Was project - 2022 Tokyo life style week | RX Japan Ltd. |
+| 4 | 김현경 | Party-oca | Was project - 2022 Tokyo life style week | RX Japan Ltd. |
+| 5 | 박상범 | Cofferapy | Was project - 2022 Tokyo life style week | RX Japan Ltd. |
+| 6 |  | Afternoon imagination| Was project - 2022 Tokyo life style week | RX Japan Ltd. |
 
 <br>
 
